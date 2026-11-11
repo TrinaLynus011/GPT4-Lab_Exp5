@@ -1,0 +1,24 @@
+PROJECT MEMORANDUM
+Subject: Improving Document Review Workflow
+Date: 6 November 2026
+From: Document Operations Team (fictional)
+
+Purpose
+This memo proposes a simple workflow for reviewing incoming documents and reducing repetitive manual work.
+
+Key recommendations
+1. Store each document with a descriptive filename and date.
+2. Extract text from digital PDF, DOCX, and TXT files before review.
+3. Create a concise summary highlighting purpose, key facts, and action items.
+4. Record questions that cannot be answered from the document.
+5. Verify generated summaries against the source before sharing them.
+6. Avoid uploading confidential or personal information to unapproved services.
+
+Expected benefits
+The workflow may improve consistency, reduce review time, and make important information easier to locate. AI-generated outputs should remain drafts and must be checked by a human reviewer.
+
+Risks and limitations
+Scanned PDFs may require OCR. Poorly formatted files can produce incomplete extraction. AI systems may omit details or generate inaccurate statements, so users should verify all outputs.
+
+Conclusion
+A document analysis tool can support the review process when used with careful human verification and appropriate data handling.
